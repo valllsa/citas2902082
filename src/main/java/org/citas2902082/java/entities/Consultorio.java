@@ -7,6 +7,6 @@ public class Consultorio {
 public Consultorio(String direccion, Integer numero) {
     this.direccion = direccion;
     this.numero = numero;
-} 
-
 }
+}
+

@@ -1,6 +1,6 @@
 package org.citas2902082.java.entities.enums;
 
-public class Especialidad {
+public enum Especialidad {
     PEDIATRIA,
     CARDIOLOGIA,
     ONCOLOGIA,
